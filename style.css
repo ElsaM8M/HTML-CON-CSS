@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    background-color:#F68ABD;
+    font-family: "Sour Gummy", sans-serif;
+}
+
+ul{
+    list-style: none;
+}
+
+input, label{
+    display:block
+}
+input{
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-style: italic;
+}
+
+#data-form{
+    background-color: #F468AA;
+    border-radius: 5px;
+}
+#flavor-form{
+    background-color: #F13890;
+    border-radius: 5px;
+}
